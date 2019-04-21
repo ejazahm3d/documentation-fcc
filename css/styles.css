@@ -1,0 +1,23 @@
+#grid-div {
+  display: grid;
+  line-height: 1.6;
+  grid-template-columns: minmax(20vw, 1fr) minmax(70vw, 1fr);
+}
+a li {
+  list-style-type: none;
+}
+#navbar {
+  border: 1px solid black;
+}
+header {
+  font-weight: bold;
+  font-size: 1.7rem;
+}
+.title {
+  text-align: center;
+}
+
+code {
+  display: block;
+  white-space: pre-wrap;
+}
